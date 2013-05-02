@@ -4,7 +4,7 @@ layout: index
 
 # SBOL Designer
 
-SBOL designer allows you to visualize SBOL designs using SBOL visual icons, edit SBOL designs 
+SBOL designer allows you to visualize [SBOL](http://www.sbolstandard.org/) designs using SBOL visual icons, edit SBOL designs 
 in a GUI, import DNA components from an SBOL parts registry, and save your design an SBOL RDF/XML
 file.
 
