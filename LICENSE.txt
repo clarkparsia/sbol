@@ -1,0 +1,57 @@
+(c) Copyright 2013 Clark & Parsia LLC, All rights reserved.
+
+This license governs use of the accompanying software (hereafter,
+"SBOL Designer"). If you use SBOL Designer, you accept this license. 
+If you do not accept the license, do not use SBOL Designer.
+
+This is NOT an Open Source software license as defined by the Open
+Source Initiative at http://www.opensource.org/.
+
+1. Definitions
+
+The terms "reproduce," "reproduction," and "distribution" have the
+same meaning here as under U.S. copyright law.
+
+"You" means the licensee of SBOL Designer.
+
+"Your organization" means the organization you worked for when you
+downloaded SBOL Designer.
+
+"Reference use" means use of SBOL Designer within your organization 
+as a reference for the sole purposes of research, debugging your 
+software, maintaining your software, extending your software, or 
+enhancing the interoperability of your software with SBOL Designer, 
+and *specifically excludes the right to distribute SBOL Designer 
+outside of your organization*.
+
+"Licensed patents" means any Licensor patent claims which read
+directly on the software as distributed by the Licensor under this
+license.
+
+2. Grant of Rights
+
+(A) Copyright Grant: Subject to the terms of this license, the
+Licensor grants you a non-transferable, non-exclusive, worldwide,
+royalty-free copyright license to reproduce SBOL Designer for 
+reference use.
+
+(B) Patent Grant: Subject to the terms of this license, the Licensor
+grants you a non-transferable, non-exclusive, worldwide, royalty-free
+patent license under licensed patents for reference use.
+
+3. Limitations
+
+(A) No Trademark License: This license does not grant you any rights
+to use the Licensor's name, logo, or trademarks.
+
+(B) If you begin patent litigation against the Licensor over patents
+that you think may apply to SBOL Designer (including a cross-claim or
+counterclaim in a lawsuit), your license to SBOL Designer ends
+automatically.
+
+(C) SBOL Designer is licensed "as-is." You bear the risk of using it. 
+The Licensor gives no express warranties, guarantees or conditions. 
+You may have additional consumer rights under your local laws which 
+this license cannot change. To the extent permitted under your local 
+laws, the Licensor excludes the implied warranties of merchantability,
+fitness for a particular purpose and non-infringement.
