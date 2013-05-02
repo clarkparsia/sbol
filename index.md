@@ -26,3 +26,16 @@ the SBOL designer gplugin file. The plugin will be ready to use immediately.
 
 If you download a newer version of the plugin at a later time you can follow the same steps and
 the new version of the plugin will replace the old version.
+
+## License
+
+SBOL Designer is currently available as closed-source software but can be used free of charge accrding to its
+[license](https://github.com/clarkparsia/sbol/blob/master/LICENSE.txt).  
+
+## Acknowledgements
+
+SBOL designer is developed by [Clark & Parsia, LLC](http://clarkparsia.com) in conjunction 
+with [University of Washington](http://www.washington.edu). Special thanks to 
+[John Gennari](http://faculty.washington.edu/gennari/), [Michal Galdzicki](http://faculty.washington.edu/mgaldzic/),
+[Herbert Sauro](http://depts.washington.edu/bioe/people/core/sauro.html), and Bryan Bartley.
+
