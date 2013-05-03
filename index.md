@@ -15,6 +15,8 @@ simply double click the jar file. If your OS does not support running Java appli
 double clicking, you can run the designer from command-line by using the `java -jar <jarFileName>`
 command at a terminal where `jarFileName` will be the name of the SBOL Designer jar file you
 downloaded.
+
+![designer](images/designer.png)
  
 ## Using SBOL Designer plugin in Geneious
 
@@ -24,6 +26,8 @@ the SBOL designer gplugin file. The plugin will be ready to use immediately.
 
 If you download a newer version of the plugin at a later time you can follow the same steps and
 the new version of the plugin will replace the old version.
+
+![geneious](images/geneious.png)
 
 ## License
 
