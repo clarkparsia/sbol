@@ -54,4 +54,5 @@ SBOL designer is developed by [Clark & Parsia, LLC](http://clarkparsia.com) in c
 with [University of Washington](http://www.washington.edu). Special thanks to 
 [John Gennari](http://faculty.washington.edu/gennari/), [Michal Galdzicki](http://faculty.washington.edu/mgaldzic/),
 [Herbert Sauro](http://depts.washington.edu/bioe/people/core/sauro.html), and Bryan Bartley.
+This work was in part funded by NIH grant #9R42HG006737.
 
