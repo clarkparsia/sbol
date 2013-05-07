@@ -14,7 +14,8 @@ uses [Standard Biological Parts Knowledgebase (SBPkb)](https://sites.google.com/
 to import DNA components from the [Registry of Standard Biological Parts](http://partsregistry.org/) at MIT.
 Other SPARQL endpoints can be defined in the tool to use components from a different source.
 
-SBOL Designer can be used either as a standalone program or a as a [Geneious](http://www.geneious.com/) plugin.
+SBOL Designer can be used either as a standalone program or a as a [Geneious](http://www.geneious.com/) plugin. 
+You can download the distribution file from the links on the lef thand side.
 
 ## Quick tutorial
 
