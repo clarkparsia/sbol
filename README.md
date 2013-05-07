@@ -31,4 +31,4 @@ More information
 
 See [http://clarkparsia.github.io/sbol/](http://clarkparsia.github.io/sbol/) for more information
 on SBOL designer. Send your questions and comments about SBOL Designer to 
-[support@clarkparsia.com](mailto:support@clarkparsia.com).
+[sbol@clarkparsia.com](mailto:sbol@clarkparsia.com).
