@@ -20,7 +20,7 @@ SBOL Designer can be used either as a standalone program or a as a [Geneious](ht
 
 Watch the following screencast for a quick overview of the SBOL designer features (no audio required).
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/fHZw-PDG_R0" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="281" src="http://www.youtube.com/embed/fHZw-PDG_R0" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
