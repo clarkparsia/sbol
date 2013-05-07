@@ -22,6 +22,8 @@ Watch the following screencast for a quick overview of the SBOL designer feature
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/fHZw-PDG_R0" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
 ## Running SBOL Designer
 
 SBOL designer requires Java 6 or later to be installed on your computer. To run SBOL designer, 
