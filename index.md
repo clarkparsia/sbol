@@ -12,11 +12,17 @@ SBOL Designer allows users to create designs using SBOL visual icons, edit SBOL 
 designd in an SBOL RDF/XML file, and import DNA components from an SBOL parts registry. SBOL Designer 
 uses [Standard Biological Parts Knowledgebase (SBPkb)](https://sites.google.com/a/sbolstandard.org/sbol/libsbol/sbpkb)
 to import DNA components from the [Registry of Standard Biological Parts](http://partsregistry.org/) at MIT.
-Other SPARQL endpoints can be defined in the tool to use components froma  different source.
+Other SPARQL endpoints can be defined in the tool to use components from a different source.
 
 SBOL Designer can be used either as a standalone program or a as a [Geneious](http://www.geneious.com/) plugin.
 
-## Running SBOL Designer stand-alone
+## Quick tutorial
+
+Watch the following screencast for a quick overview of the SBOL designer features (no audio required).
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fHZw-PDG_R0" frameborder="0" allowfullscreen></iframe>
+
+## Running SBOL Designer
 
 SBOL designer requires Java 6 or later to be installed on your computer. To run SBOL designer, 
 simply double click the jar file. If your OS does not support running Java applications by
@@ -26,7 +32,7 @@ downloaded.
 
 ![designer](images/designer.png)
  
-## Using SBOL Designer plugin in Geneious
+## Installing SBOL Designer plugin for Geneious
 
 [Geneious](http://www.geneious.com/) is a very popular DNA, RNA and protein sequence alignment, assembly and analysis 
 software platform, integrating bioinformatic and molecular biology tools into a simple interface. SBOL
