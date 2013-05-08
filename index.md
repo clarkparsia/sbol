@@ -19,7 +19,8 @@ You can download the distribution file from the links on the lef thand side.
 
 ## Quick tutorial
 
-Watch the following screencast for a quick overview of the SBOL designer features (no audio required).
+Watch the following screencast for a quick overview of the SBOL designer features (no audio required). 
+Full screen viewing is recommended.
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/57HbAhXjYyo" frameborder="0" align="middle" allowfullscreen></iframe>
 
