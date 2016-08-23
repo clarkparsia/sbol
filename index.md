@@ -2,6 +2,10 @@
 layout: index
 ---
 
+---
+### NOTE: SBOLDesigner 2.0 available at [http://www.async.ece.utah.edu/SBOLDesigner](http://www.async.ece.utah.edu/SBOLDesigner)
+---
+
 SBOL Designer is a synthetic biology design tool for creating and visualizing designs expressed using 
 [Synthetic Biology Open Language (SBOL)](http://www.sbolstandard.org/). SBOL is an open-source data exchange 
 standard for descriptions of genetic parts, devices, modules, and systems. SBOL defines both a serialization 
