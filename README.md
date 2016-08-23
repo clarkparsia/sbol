@@ -1,3 +1,8 @@
+---
+### NOTE: SBOLDesigner 2.0 available at [http://www.async.ece.utah.edu/SBOLDesigner](http://www.async.ece.utah.edu/SBOLDesigner)
+---
+
+
 SBOL Designer
 =============
 
